@@ -4,7 +4,7 @@ a simple html parser.
 
 ## Usage :
 ```javascript
-const htmlParser = require('simple-html-parser')
+const htmlParser = require('html-tags-parser')
 const elements = htmlParser()
 ```
 
